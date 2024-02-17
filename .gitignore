@@ -82,3 +82,11 @@ tmp/*
 #################
 packages/web/status/injectHosts.php
 packages/web/lib/plugins/hostext
+
+/vendor/
+/.idea/
+/config/env/env.php
+/logs/*.log
+/var/cache/*
+/composer.lock
+/.gtm/
